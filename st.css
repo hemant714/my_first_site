@@ -1,0 +1,22 @@
+*{
+	font-family: montserrat;
+	
+}
+
+#services_offered{
+	margin-top: 20px;
+}
+button{
+
+	margin-top: 14px;
+	
+}
+.col_set{
+	margin-top: 60px;
+}
+footer{
+	background-color: black;
+	color: white;
+	margin-top: 15px;
+	padding: 20px;
+}
